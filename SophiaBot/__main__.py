@@ -86,8 +86,8 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="Sophia News 🙋‍♀️ ", url=f"https://t.me/SophiaUpdates"),
-        InlineKeyboardButton(text="Support Group 💬 ", url=f"https://t.me/SophiaSupport_Official"),
+        InlineKeyboardButton(text="Bot News 🙋‍♀️ ", url=f"https://t.me/the_warriors_network"),
+        InlineKeyboardButton(text="Support Group 💬 ", url=f"https://t.me/The_warriors_chat"),
     ],
     [
         InlineKeyboardButton(text="➕ Add me to your Group ➕", url="t.me/SophiaSLBot?startgroup=true"),   
@@ -95,10 +95,10 @@ buttons = [
 ]
 
 HELP_STRINGS = """
-Hi Boss! I'm <b>Sophia</b>. An anime themed super powerful group management bot with many handy tools. So why are you waiting. Let me to assist you.
+Hi Boss! I'm <b>Legend Bot</b>. An anime themed super powerful group management bot with many handy tools. So why are you waiting. Let me to assist you.
 """
 
-DONATE_STRING = """ Join Updates Channel @SophiaUpdates | Support Group @SophiaSupport_Official"""
+DONATE_STRING = """ Join Updates Channel @the_warriors_network | Support Group @The_warriors_chat"""
 
 IMPORTED = {}
 MIGRATEABLE = []
